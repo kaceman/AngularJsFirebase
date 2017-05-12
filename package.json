@@ -1,0 +1,12 @@
+{
+    "name": "expense-tracker",
+    "version": "1.0.0",
+    "description": "an expense tracker",
+    "main": "index.js",
+    "scripts": {
+        "test": "http-server"
+    },
+    "keywords": [],
+    "author": "kaceman",
+    "license": "ISC"
+}
